@@ -16,6 +16,10 @@
 
 
 
+https://github.com/user-attachments/assets/74afd05a-eb6d-4bb0-8c08-ea6060283ba0
+
+
+
 ### 3.1 2CH/4CH/SA/LGE 分割
 
 
@@ -24,7 +28,15 @@
 
 
 
+https://github.com/user-attachments/assets/4acec527-44c2-4532-9095-2cad86c24fe0
+
+
+
 ### 3.3 NICMS亚型分类
+
+
+
+https://github.com/user-attachments/assets/3a862015-1379-408d-a938-aa76709ec111
 
 
 
@@ -32,7 +44,13 @@
 
 
 
+
+
 ## 3.5 医学问答
+
+
+
+https://github.com/user-attachments/assets/446ebb6b-424b-495c-9fd7-ee3b4b1ad95a
 
 
 
